@@ -12,7 +12,7 @@
 	<artifactId>jodeApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jodeApi</name>
-	<description>Api para o site de casamento de João e Débora</description>
+	<description>Api para o site de casamento de Matheus e Nathália</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
